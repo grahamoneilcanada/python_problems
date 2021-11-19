@@ -2,6 +2,9 @@
 
 This repository contains solutions to many python problems. Many of the problems come from LeetCode. All example have test coverage.
 
+## Project Test Status
+![](https://github.com/grahamoneilcanada/python_problems/workflows/Project%20Tests/badge.svg)
+
 ## LeetCode Two Sum
 
 ### Link
